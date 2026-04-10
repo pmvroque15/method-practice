@@ -17,6 +17,8 @@ public class Menu {
         //Initialize Scanner
         Scanner scanner = new Scanner(System.in);
         //Declare methods
+//        c. Call it twice from main() to see it's reusable
+        displayMenu();
         displayMenu();
     }
 
